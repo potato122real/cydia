@@ -3,10 +3,9 @@ Version: 0.1-32
 Section: Tweaks
 Maintainer: potato122real
 Architecture: iphoneos-arm
-Filename: ./debs/indicatortones-0.1-32.deb
+Filename: debs/indicatortones-0.1-32.deb
 Size: 1024
 Description: Sound for your loading indicator
 Name: IndicatorTones
 Author: InvoxiPlayGames
 Depiction: https://potato122real.github.io/cydia/depictions/?p=com.invoxplaygames.indicatortones
-
