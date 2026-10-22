@@ -1,0 +1,24 @@
+<package>
+    <id>com.invoxplaygames.indicatortones</id>
+    <name>IndicatorTones</name>
+    <version>0.1-32+debug</version>
+    <compatibility>
+        <firmware>
+            <mini>7.0</mini>
+        </firmware>
+    </compatibility>
+    <description>
+        <short>Sound for your loading indicator</short>
+        <long>IndicatorTones lets you play a sound while the loading indicator is showing in your status bar. !! BETA NOTES !! Only has one tone, the dial-up connection tones.</long>
+    </description>
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+    <links>
+        <link>
+            <name>Author: InvoxiPlayGames</name>
+            <url>https://twitter.com/invoxiplaygames</url>
+            <iconclass>fa fa-user</iconclass>
+        </link>
+    </links>
+</package>
